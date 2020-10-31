@@ -1,0 +1,10 @@
+flighttime\vl53l0x_platform_log.o: ..\Core\Src\vl53l0x\vl53l0x_platform_log.c
+flighttime\vl53l0x_platform_log.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+flighttime\vl53l0x_platform_log.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+flighttime\vl53l0x_platform_log.o: ..\Core\Src\vl53l0x\vl53l0x_def.h
+flighttime\vl53l0x_platform_log.o: ..\Core\Src\vl53l0x\vl53l0x_device.h
+flighttime\vl53l0x_platform_log.o: ..\Core\Src\vl53l0x\vl53l0x_types.h
+flighttime\vl53l0x_platform_log.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+flighttime\vl53l0x_platform_log.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+flighttime\vl53l0x_platform_log.o: ..\Core\Src\vl53l0x\vl53l0x_platform_log.h
+flighttime\vl53l0x_platform_log.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
