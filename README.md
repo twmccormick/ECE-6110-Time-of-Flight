@@ -7,7 +7,7 @@ is initialized and is then used to provide proximity information, which is then 
 over a UART (configured as 8n1 at 9600 baud) connection. 
 
 In addition I have added a few useful features. The default measurement is provided in mm (metric) but 
-by pressing the blue button, an interrupt is triggered, which givesa the measurement in inches. 
+by pressing the blue button, an interrupt is triggered, which gives the measurement in inches. 
 Pressing the button again switches the measurement back to mm, and the option for mm or inches can be toggled 
 as many times as desired.
 
